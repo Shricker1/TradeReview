@@ -52,6 +52,3 @@ trade_review.db
 *.db
 *.sqlite
 *.sqlite3
-
-# ===== Local release artifacts =====
-*.exe
